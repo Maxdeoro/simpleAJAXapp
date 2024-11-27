@@ -1,1 +1,1 @@
-# simpleAJAXapp
+Application uses AJAX requests.
